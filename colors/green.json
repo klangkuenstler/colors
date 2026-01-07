@@ -9,5 +9,11 @@
         "color": "#94D40B",
         "description": "Light green from the University of Aveiro's logo",
         "url": "https://github.com/trending?l=1C-Enterprise"
+    },
+
+    "MS Excel Green": {
+        "color": "#6AA84F",
+        "description": "Green from the MS Excel interface",
+        "url": "https://www.microsoft.com/en-us/microsoft-365/excel"
     }
 }
