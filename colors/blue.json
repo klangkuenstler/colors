@@ -3,5 +3,11 @@
         "color": "#1793d1",
         "description": "Light blue from the Arch Linux logo",
         "url": "https://archlinux.org/art/"
+    },
+
+    "Arch Linux Blue Interface": {
+        "color": "#1cb3ff",
+        "description": "A variant from light blue from the Arch Linux logo for user interfaces",
+        "url": "https://archlinux.org/art/"
     }
 }
